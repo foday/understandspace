@@ -1,0 +1,6 @@
+{
+  "name": "Understand Houston",
+  "description": "Mobile-first local directory and enterprise intelligence node for the 2026 Houston World Cup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
